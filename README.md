@@ -4,7 +4,7 @@
 A library for simple implementation of smart ranking.
 The user will see a dialog alart.
 If the user gives a high score, he will be transferred to the Google store. If he gives a low score, he will only receive a dialog that he can write why he disappointed.
-after the user rate the app the dialog alart will not appear.
+after the user rate the app the dialog alart will not appear anymore.
 
 <img src="https://github.com/OferDrori/ConvenientRate/blob/master/Rate%20Us.jpeg" width="288">
 
